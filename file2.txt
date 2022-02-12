@@ -1,2 +1,3 @@
 hello, its me
-And i am learning git
+And i am learning git,
+and it is nearto complete
